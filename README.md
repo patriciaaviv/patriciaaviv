@@ -39,7 +39,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-FFD1DC?style=for-the-badge&logo=rust&logoColor=2d2d2d)
 ![C](https://img.shields.io/badge/-C-FFB6C1?style=for-the-badge&logo=c&logoColor=2d2d2d)
-![Java](https://img.shields.io/badge/-Java-FFC0CB?style=for-the-badge&logo=java&logoColor=2d2d2d)
+![Java](https://img.shields.io/badge/-Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=2d2d2d)
 ![Python](https://img.shields.io/badge/-Python-FFD1DC?style=for-the-badge&logo=python&logoColor=2d2d2d)
 ![Shell](https://img.shields.io/badge/-Shell-FFD1DC?style=for-the-badge&logo=gnu-bash&logoColor=2d2d2d)
 ![Linux](https://img.shields.io/badge/-Linux-FFC0CB?style=for-the-badge&logo=linux&logoColor=2d2d2d)
