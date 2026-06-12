@@ -8,7 +8,7 @@
 - 🏠 Building out a NixOS homelab and tinkering with smart home / IoT setups
 - 📸 Shoots analogue on a Canon AE-1
 - 📚 Always got a book going on the side
-- 🎮 Into RPGs, Counterstrike, League of Legends, and cozy games like Stardew Valley
+- 🎮 Into RPGs, CounterStrike, League of Legends, and cozy games like Stardew Valley
 
 ---
 
