@@ -46,6 +46,7 @@
 ![NixOS](https://img.shields.io/badge/-NixOS-FFD1DC?style=for-the-badge&logo=nixos&logoColor=2d2d2d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=2d2d2d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFC0CB?style=for-the-badge&logo=typescript&logoColor=2d2d2d)
+</div>
 
 ---
 ### ⚡️ Stats
