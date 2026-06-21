@@ -5,7 +5,7 @@
 ### 🌸 about me
 
 - 🔐 Professional pentester, doing web and system assessments
-- 💻 Experience in fullstack development
+- 💻 Experienced in fullstack development
 - 🏠 Building out a NixOS homelab and tinkering with smart home / IoT setups
 - 📸 Shoots analogue on a Canon AE-1
 
